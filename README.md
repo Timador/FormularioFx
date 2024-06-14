@@ -20,3 +20,10 @@ public class Main extends Application {
         launch(args);
     }
 }
+
+
+# FormularioJavaFx
+
+Este es un proyecto JavaFX que demuestra el uso de varios controles.
+
+![Screenshot](screenshot.png)
