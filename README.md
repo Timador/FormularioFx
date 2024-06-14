@@ -26,4 +26,5 @@ public class Main extends Application {
 
 Este es un proyecto JavaFX que demuestra el uso de varios controles.
 
-![Screenshot](screenshot.png)
+![screenshot](https://github.com/Timador/FormularioFx/assets/168133781/7d4666ef-5f2c-456f-b862-07911e0fdd2c)
+
